@@ -1,1 +1,2 @@
-# Huawei-Digix-
+# Huawei-Digix-  
+The code and model for Huawei Digix CTR Prediction Challenge.
